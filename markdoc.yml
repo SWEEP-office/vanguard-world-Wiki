@@ -2,16 +2,17 @@ site_name: vanguard-world-wiki
 nav:
   - 首页: index.md
   - 国家:
-    - SWIPU: ./docs/Untitled-1.md
+    - SWIPU: ./docs/inwork/Untitled-1.md
   - 宗教:
-    - 布教:  ./docs/Untitled-1.md
+    - 布教:  ./docs/inwork/Untitled-1.md
   - 科学:
-    - 布教:  ./docs/Untitled-1.md
-    - 未变:  ./docs/Untitled-1.md
+    - 布教:  ./docs/inwork/Untitled-1.md
+    - 未变:  ./docs/inwork/Untitled-1.md
   - 历史:
-    - 史前: ./docs/Untitled-1.md
+    - 史前: ./docs/inwork/Untitled-1.md
   - 语言:
-    - SWIPU: ./docs/Untitled-1.md
+    - SWIPU: ./docs/inwork/Untitled-1.md
 theme:
 
      name: material
+
